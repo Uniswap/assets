@@ -1,0 +1,22 @@
+{
+    "name": "Universal Basic Income",
+    "website": "https://www.proofofhumanity.id/",
+    "description": "UBI, the first Universal Basic Income token streamed to on-chain verified humans is live",
+    "explorer": "https://etherscan.io/address/0xdd1ad9a21ce722c151a836373babe42c868ce9a4",
+    "type": "ERC20",
+    "symbol": "UBI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4",
+    "tags": [],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/DemocracyEarth/ubi"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/es/monedas/universal-basic-income"
+        }
+    ]
+}
