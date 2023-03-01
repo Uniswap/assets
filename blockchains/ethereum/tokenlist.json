@@ -3507,6 +3507,16 @@
             "decimals": 6,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c60_t0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9",
+            "type": "ERC20",
+            "address": "0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9",
+            "name": "Symbiosis",
+            "symbol": "SIS",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15084.png",
+            "pairs": []
         }
     ],
     "version": {

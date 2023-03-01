@@ -1,0 +1,39 @@
+{
+    "name": "Symbiosis",
+    "website": "https://symbiosis.finance",
+    "description": "Symbiosis is a cross-chain liquidity aggregation protocol. Best rates for any to any token swaps regardless of the blockchain network: Avalanche, BNB, Boba, Ethereum and Polygon supported.",
+    "explorer": "https://bscscan.com/token/0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835",
+    "type": "BEP20",
+    "symbol": "SIS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835",
+    "tags": [
+        "defi",
+        "governance",
+        "crosschain",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.gg/YHgDSJ42eG"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/symbiosis_fi"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.symbiosis.finance/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/symbiosis-finance/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/symbiosis-finance"
+        }
+    ]
+}
