@@ -1,0 +1,29 @@
+{
+    "name": "Galvan",
+    "website": "https://www.galvan.health/",
+    "description": "Gamified web3 health and wellness.",
+    "explorer": "https://etherscan.io/token/0xf7e945FcE8F19302AaCc7E1418b0A0bdef89327B",
+    "type": "ERC20",
+    "symbol": "IZE",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xf7e945FcE8F19302AaCc7E1418b0A0bdef89327B",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/galvanhealth"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/galvan"
+        },
+        {
+            "name": "litepaper",
+            "url": "https://www.galvan.health/litepaper"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/galvan"
+        }
+    ]
+}
