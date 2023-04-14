@@ -1,0 +1,36 @@
+{
+    "name": "Home",
+    "website": "https://www.homecoin.finance/",
+    "description": "A Stablecoin backed by U.S. Homes",
+    "explorer": "https://etherscan.io/token/0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
+    "type": "ERC20",
+    "symbol": "HOME",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/homecoin-finance/protocol-contracts"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/homecoinfinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/homestablecoin"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://files.homecoin.finance/homecoin-whitepaper.pdf"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/home"
+        }
+    ]
+}
