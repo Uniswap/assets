@@ -1,0 +1,40 @@
+{
+    "name": "VNX Swiss Franc (VCHF)",
+    "type": "ERC20",
+    "symbol": "VCHF",
+    "decimals": 18,
+    "website": "https://vnx.li/",
+    "description": "VNX Franc (VCHF) is a token referencing Swiss Franc from a token generator licensed under the Blockchain act in Liechtenstein.",
+    "explorer": "https://etherscan.io/token/0x79d4f0232a66c4c91b89c76362016a1707cfbf4f",
+    "status": "active",
+    "id": "0x79d4f0232A66c4c91b89c76362016A1707CFBF4f",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/VNX_Platform"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/VNX_Exchange"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/5jCaPYwr3f"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/vnx-euro"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@vnx"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://vnx.gitbook.io/vnx-platform/documents/white-papers"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}
