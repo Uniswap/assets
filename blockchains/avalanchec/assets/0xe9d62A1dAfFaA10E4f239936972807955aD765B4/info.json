@@ -1,0 +1,77 @@
+{
+    "name": "Earniverse",
+    "website": "https://earniverse.io",
+    "description": "Earniverse – The Play&Earn Metaverse, is an immersive VR Metaverse where Brands & Investors get revenues via virtual land ownership, VR Experiences & NFT Collections.",
+    "explorer": "https://snowtrace.io/",
+    "research": "https://snowtrace.io/token/0xe9d62A1dAfFaA10E4f239936972807955aD765B4",
+    "symbol": "EIV",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "Metaverse",
+        "Marketplace",
+        "NFT Marketplace",
+        "3D NFT",
+        "GameFi",
+        "VR"
+    ],
+    "links": [
+        {
+            "name": "News",
+            "url": "https://earninews.com"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/Earniverse/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Earniverse_io"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/earniverseofficial"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/earniverse_official/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/earniverse"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/earniverse"
+        },
+        {
+            "name": "tiktok",
+            "url": "https://www.tiktok.com/@earniverse_official"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/ebt6uCz6F9"
+        },
+        {
+            "name": "twitch",
+            "url": "https://www.twitch.tv/earniverse"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Earniverse/"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/@Earniverse"
+        },
+        {
+            "name": "medium",
+            "url": "https://earniverse.medium.com/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://earniverse.io/whitepaper"
+        }
+    ]
+}
