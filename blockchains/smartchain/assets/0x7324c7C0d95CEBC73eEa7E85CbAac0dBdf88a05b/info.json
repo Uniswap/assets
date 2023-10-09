@@ -1,7 +1,7 @@
 {
-    "name": "Onyx",
+    "name": "Onyx Protocol",
     "website": "https://onyx.org",
-    "description": "Onyx Protocol is a decentralized platform that facilitates a peer-to-peer money market lending protocol.",
+    "description": "A decentralized cross-token Web3 protocol powered by XCN that supports NFTs and crypto.",
     "explorer": "https://bscscan.com/token/0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
     "type": "BEP20",
     "symbol": "XCN",
