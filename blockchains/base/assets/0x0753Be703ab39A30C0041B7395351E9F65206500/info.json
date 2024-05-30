@@ -1,0 +1,26 @@
+{
+  "name": "Daily Active Users",
+  "website": "https://dau.quest",
+  "description": "Daily Active Users (DAU) - a Farcaster memecoin.",
+  "explorer": "https://basescan.org",
+  "symbol": "DAU",
+  "type": "ERC20",
+  "id": "0x0753Be703ab39A30C0041B7395351E9F65206500",
+  "decimals": 18,
+  "status": "active",
+  "tags": ["memecoin"],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/fc_dau"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/fc_dau"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/daily-active-users"
+    }
+  ]
+}
