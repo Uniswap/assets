@@ -1,0 +1,34 @@
+{
+    "name": "Nifty League",
+    "symbol": "NFTL",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://niftyleague.com",
+    "description": "Nifty League governance and game platform token.",
+    "explorer": "https://etherscan.io/token/0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
+    "status": "active",
+    "id": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
+    "links": [
+        {
+        "name": "twitter",
+        "url": "https://twitter.com/NiftyLeague"
+        },
+        {
+        "name": "discord",
+        "url": "https://discord.gg/niftyleague"
+        },
+        {
+        "name": "github",
+        "url": "https://github.com/NiftyLeague"
+        },
+        {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/nifty-league/"
+        },
+        {
+        "name": "coingecko",
+        "url": "https://coingecko.com/coins/nifty-league/"
+        }
+    ],
+    "tags": ["gaming"]
+}
