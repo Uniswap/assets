@@ -1,0 +1,21 @@
+{
+    "name": "Legatus",
+    "symbol": "LGTS",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Tokenized profit sharing from forex algorithms and traders. Buy and stake $LGTS to earn USDC daily.",
+    "website": "https://legatuscapital.net",
+    "explorer": "https://basescan.org/token/0xFA08Dc75c5709a14892dCB157765a55B9D6dE77b",
+    "status": "active",
+    "id": "0xFA08Dc75c5709a14892dCB157765a55B9D6dE77b",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/legatuscapital"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/3CTC6fy6dq"
+        }
+    ]
+}
