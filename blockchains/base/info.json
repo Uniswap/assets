@@ -1,0 +1,17 @@
+{
+    "name": "EBERT",
+    "website": "https://www.whoisebert.xyz",
+    "description": "Ebert is the enigmatic being of Base chain. Join us on a whimsical odyssey as we unlock the mysteries of Ebert's origin and chart new territories in the digital universe.",
+    "explorer": "https://basescan.org/token/0xf83cde146AC35E99dd61b6448f7aD9a4534133cc#tokenInfo",
+    "symbol": "EBERT",
+    "type": "coin",
+    "coin_type": 8453,
+    "decimals": 18,
+    "logoURI": "https://basescan.org/token/images/whoisebert_32.png",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/whoisebert"
+        },
+    ]
+}
