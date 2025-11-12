@@ -1,0 +1,22 @@
+{
+  "name": "Monad Mainnet",
+  "website": "https://monad.xyz/",
+  "description": "Monad is a high-performance EVM-compatible Layer 1 blockchain",
+  "explorer": "https://monadvision.com",
+  "research": "https://docs.monad.xyz",
+  "symbol": "MON",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "rpc_url": "https://rpc-mainnet.monadinfra.com/rpc/",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/monad"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/monad-crypto"
+    }
+  ]
+}
