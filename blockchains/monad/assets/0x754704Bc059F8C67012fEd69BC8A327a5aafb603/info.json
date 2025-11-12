@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "type": "MONAD",
+  "decimals": 6,
+  "description": "USD Coin on Monad",
+  "status": "active",
+  "explorer": "https://monadvision.com/token/0x754704Bc059F8C67012fEd69BC8A327a5aafb603?chainId=143",
+  "website": "https://www.centre.io/",
+  "id": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603"
+}

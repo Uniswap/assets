@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped MON",
+  "symbol": "WMON",
+  "type": "MONAD",
+  "decimals": 18,
+  "description": "Wrapped MON",
+  "status": "active",
+  "explorer": "https://monadvision.com/token/0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+  "website": "https://monad.xyz/",
+  "id": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A"
+}
