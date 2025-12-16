@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped OKB",
+  "symbol": "WOKB",
+  "type": "XLAYER",
+  "decimals": 18,
+  "description": "Wrapped OKB",
+  "status": "active",
+  "explorer": "https://web3.okx.com/explorer/x-layer/token/0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+  "website": "https://web3.okx.com/xlayer",
+  "id": "0xe538905cf8410324e03A5A23C1c177a474D59b2b"
+}

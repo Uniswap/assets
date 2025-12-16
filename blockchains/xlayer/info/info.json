@@ -1,0 +1,22 @@
+{
+    "name": "X Layer",
+    "website": "https://web3.okx.com/xlayer",
+    "description": "X Layer is an EVM layer 2 that empowers builders for a global, versatile onchain economy",
+    "explorer": "https://web3.okx.com/explorer/x-layer/",
+    "research": "https://web3.okx.com/xlayer/docs/developer/build-on-xlayer/about-xlayer",
+    "symbol": "OKB",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "rpc_url": "https://rpc.xlayer.tech/",
+    "links": [
+      {
+        "name": "twitter",
+        "url": "https://x.com/XLayerOfficial"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/okx/xlayer-docs"
+      }
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "type": "XLAYER",
+    "decimals": 6,
+    "description": "USD Coin on X Layer",
+    "status": "active",
+    "explorer": "https://web3.okx.com/explorer/x-layer/token/0x74b7f16337b8972027f6196a17a631ac6de26d22",
+    "website": "https://www.centre.io/",
+    "id": "0x74b7F16337b8972027F6196A17a631aC6dE26d22"
+  }
