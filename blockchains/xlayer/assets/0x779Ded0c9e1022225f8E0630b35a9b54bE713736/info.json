@@ -1,0 +1,11 @@
+{
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "type": "XLAYER",
+    "decimals": 6,
+    "description": "USDT0 on X Layer",
+    "status": "active",
+    "explorer": "https://web3.okx.com/explorer/x-layer/token/0x779ded0c9e1022225f8e0630b35a9b54be713736",
+    "website": "https://usdt0.to/",
+    "id": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736"
+  }
