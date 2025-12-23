@@ -1,0 +1,21 @@
+{
+  "name": "Tyche Sports",
+  "symbol": "TSPT",
+  "type": "BASE",
+  "decimals": 18,
+  "description": "Experience the thrill of sports betting like never before with Tyche Sports, a revolutionary decentralized platform that puts the power back into the hands of the community.",
+  "website": "https://tychesports.xyz",
+  "explorer": "https://basescan.org/token/0x8D837b204122E70733D0432E3522af9cb5C1e946",
+  "status": "active",
+  "id": "0x8D837b204122E70733D0432E3522af9cb5C1e946",
+  "links": [
+      {
+          "name": "telegram",
+          "url": "https://t.me/tychesportbetportal"
+      },
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/TycheSportbets"
+      }
+  ]
+}
