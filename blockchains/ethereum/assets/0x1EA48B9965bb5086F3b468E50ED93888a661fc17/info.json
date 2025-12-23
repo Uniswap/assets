@@ -1,0 +1,11 @@
+{
+	"name": "Moneta",
+	"type": "ERC20",
+	"symbol": "MON",
+	"decimals": 18,
+	"website": "https://www.defifranc.com/moneta",
+	"description": "Moneta is the governance token of DeFiFranc - the First Fully Decentralized Stablecoin Pegged to the Swiss Franc. ReDEFIning Stability.",
+	"explorer": "https://etherscan.io/token/0x1EA48B9965bb5086F3b468E50ED93888a661fc17",
+	"status": "active",
+	"id": "0x1EA48B9965bb5086F3b468E50ED93888a661fc17"
+}
