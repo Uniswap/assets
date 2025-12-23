@@ -1,0 +1,21 @@
+{
+    "name": "PeopleCoin",
+    "type": "ARBITRUM",
+    "symbol": "People",
+    "decimals": 18,
+    "website": "https://peoplecoin.co",
+    "description": "PeopleCoin without a giant whale, 100% of the tokens were sent to the liquidity pool, LP tokens were burnt, and contract is renounced.",
+    "explorer": "https://arbiscan.io/token/0xEbD1480b6fAf3224e6a7bb6bF076df3759cC728A",
+    "status": "active",
+    "id": "0xEbD1480b6fAf3224e6a7bb6bF076df3759cC728A",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/people_coin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://github.com/peoplecoin00/peoplecoin"
+        }
+    ]
+} 
