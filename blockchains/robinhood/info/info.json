@@ -1,0 +1,22 @@
+{
+  "name": "Robinhood Chain",
+  "website": "https://robinhood.com/chain",
+  "description": "Robinhood Chain is a permissionless, Ethereum-compatible Layer-2 blockchain built to support a new era of onchain financial infrastructure.",
+  "explorer": "https://robinhoodchain.blockscout.com/",
+  "research": "",
+  "symbol": "ETH",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "rpc_url": "https://rpc.mainnet.chain.robinhood.com",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/RobinhoodApp"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/robinhood"
+    }
+  ]
+}
