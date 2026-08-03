@@ -1,0 +1,7 @@
+{
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "type": "ERC20",
+  "decimals": 6,
+  "id": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+}
