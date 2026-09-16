@@ -1,0 +1,11 @@
+{
+	"name": "DeFiFranc",
+	"type": "ERC20",
+	"symbol": "DCHF",
+	"decimals": 18,
+	"website": "https://www.defifranc.com",
+	"description": "DeFiFranc is the First Fully Decentralized Stablecoin Pegged to the Swiss Franc. ReDEFIning Stability.",
+	"explorer": "https://etherscan.io/token/0x045da4bFe02B320f4403674B3b7d121737727A36",
+	"status": "active",
+	"id": "0x045da4bFe02B320f4403674B3b7d121737727A36"
+}
