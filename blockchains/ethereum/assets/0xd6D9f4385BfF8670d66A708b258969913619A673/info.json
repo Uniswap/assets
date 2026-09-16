@@ -1,0 +1,28 @@
+{
+    "name": "LEETCoin",
+    "website": "https://www.leetcoin.gg",
+    "description": "Memecoin for elite gamers",
+    "explorer": "https://etherscan.io/address/0xd6D9f4385BfF8670d66A708b258969913619A673",
+    "research": "https://leetcoin.gg/LEET_files/note.png",
+    "symbol": "LEET",
+    "type": "coin",
+    "decimals": 9,
+    "status": "active",
+    "tags": [
+        "gaming"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/leetcoingg"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/leetgg"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://leetcoin.gg/LEET_files/note.png"
+        }
+    ]
+}
