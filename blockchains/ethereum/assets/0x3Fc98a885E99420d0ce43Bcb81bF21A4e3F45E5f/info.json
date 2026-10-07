@@ -1,0 +1,24 @@
+{
+    "name": "MYR Stablecoin",
+    "website": "https://myrt.money",
+    "description": "Malaysia's Ringgit, on-chain. MYRT is built compliance-first, backed 1:1 by Ringgit in segregated reserves and a Shariah-compliant Ringgit fund.",
+    "explorer": "https://etherscan.io/token/0x3Fc98a885E99420d0ce43Bcb81bF21A4e3F45E5f",
+    "type": "ERC20",
+    "symbol": "MYRT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x3Fc98a885E99420d0ce43Bcb81bF21A4e3F45E5f",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/MYRT_money"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/myrt-money"
+        }
+    ]
+}
